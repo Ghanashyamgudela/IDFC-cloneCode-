@@ -558,6 +558,7 @@ hr {
 }
 .box1-text {
     padding-left: 20px;
+    z-index: -888;
     padding-top: 4px;
     font-weight: 1000;
     font-style: normal;
@@ -663,6 +664,7 @@ hr {
     padding-top: 3%;
     background-color: darkred;
     width: 8%;
+    z-index: -888;
     padding-right: 35px;
     border-radius: 20px;
     position: relative;
